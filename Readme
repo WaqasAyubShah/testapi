@@ -1,0 +1,10 @@
+// Step-By- Step API
+// npm init -y
+// npm install express
+// create index.js
+//
+// define the index api
+//
+// now call the node server by node .
+//   
+// run localhost:8080/apitest 
